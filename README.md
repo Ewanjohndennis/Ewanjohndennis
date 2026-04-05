@@ -54,7 +54,6 @@ infra        docker  gcp  vercel  streamlit cloud  git
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewanjohndennis)
 [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ewandennis2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/ewanjohndennis)
 
 ---
 
