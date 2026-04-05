@@ -1,6 +1,6 @@
 <div align="center">
 
-# ewan john dennis
+# Ewan John Dennis
 
 `cs undergrad` · `full-stack dev` · `ai systems` · `kochi, india`
 
@@ -10,13 +10,13 @@
 
 ### about
 
-i'm a cs student at model engineering college who builds things end-to-end —
+i'm a CS Student at Model Engineering College who builds things end-to-end —
 from the database to the deployment button.
 
 lately i've been deep in multi-agent ai systems, llm pipelines, and getting
 language models to do useful work in production rather than just demos.
 
-when i'm not coding i'm probably running events at fossmec or debugging
+when i'm not coding i'm probably watching movies, sleeping or debugging
 something that worked fine yesterday.
 
 ---
