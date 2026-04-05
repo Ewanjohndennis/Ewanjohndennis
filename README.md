@@ -59,5 +59,5 @@ infra        docker  gcp  vercel  streamlit cloud  git
 ---
 
 <div align="center">
-<sub>always building. occasionally sleeping.</sub>
+<sub>mostly sleeping. occasionally building things that work in production.</sub>
 </div>
