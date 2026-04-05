@@ -6,6 +6,7 @@ Currently building production-grade software at the intersection of LLM pipeline
 retrieval-augmented generation, and real-world engineering.
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cs+student+%40+model+engineering+college;building+ai+agents+that+work+in+prod;)](https://git.io/typing-svg)
 
 ## Featured Project
 
